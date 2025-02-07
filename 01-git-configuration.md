@@ -14,3 +14,10 @@ While using a new local machine, first time we have use git config commands.
     git config --global user.name "USER_NAME"
     git config --global user.email "EMAIL_ID"
     ```
+
+
+## Check installation of git
+To confirm installation of git in local machine, run the below command
+    ```
+    git --version
+    ```
