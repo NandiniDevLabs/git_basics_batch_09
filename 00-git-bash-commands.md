@@ -7,6 +7,11 @@ To manage file and directories in Git Bash, use the following commands.
     ls
     ```
     >Lists files and directories in the current directory.
+
+    ```
+    ls -a
+    ```
+    >Lists files and directories in the current directory including hidden files/directories.
     
     ```
     ls -R
